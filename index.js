@@ -7,8 +7,10 @@ var authConfig = {
     "theme" : "material", // material  classic 
     "client_id": "202264815644.apps.googleusercontent.com",
     "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
-    "refresh_token": "", // 授权 token
-    "root": "root" // 根目录ID
+    "refresh_token": "{"access_token":"ya29.a0AfH6SMC7bG4ehU0lq24sqp12Cp1rZZN0NdL0pH6zbQY3rz7fVAYqauNGkp4kyb17Iqa4FrX1hHTOYIKC6zUnnbhOeGdT4vHvWe9aMKiwassA4o-Sq_A8m
+qj5qMvD7bNBDSKTYdJmS0GTFYwUf7sD3DCV9O7YXKzqfXS3","token_type":"Bearer","refresh_token":"1//0e5-nDfyU2NvWCgYIARAAGA4SNwF-L9IrOmIuHTh3kwxJHBIC25xUh1Dgl
+4_8c2eOdXmHLulmByzKM8lcaLIGStrPIQmdBBd2FO0","expiry":"2020-05-22T14:36:25.516420242Z"}", // 授权 token
+    "root": "0BwqL-oLt8pdwRUNkYTJKWmRQTUk" // 根目录ID
 };
 
 var gd;
